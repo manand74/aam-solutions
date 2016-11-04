@@ -2,7 +2,7 @@ import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-/** First test class using java.nio library*/
+/** First test class using java.nio library */
 public class First {
 
 	public static void main(String[] args) throws Exception{
